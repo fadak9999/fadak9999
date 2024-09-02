@@ -1,17 +1,13 @@
-## Hi  ᓚᘏᗢ (^///^) 👋
+#              Hi 👋, I'm Fadak
 
+🌟 Welcome to my GitHub profile! 🌟
 
-<!--
-**fadak9999/fadak9999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Cat Sticker](https://cdn2.thecatapi.com/images/MTY3ODIyMQ.jpg)
 
-Here are some ideas to get you started:
+## My Open Source Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | Description |
+| --- | --- |
+| [Change_language_in_flutter](link-to-project) | Project description |
+| [language_flutter_getx](link-to-project) | Project description |
+| [Gemini_Ghat_App_AI](link-to-project) | Project description |
