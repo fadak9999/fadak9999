@@ -1,6 +1,7 @@
-#              Hi 👋, I'm Fadak
+#            Hi 👋, I'm Fadak ᓚᘏᗢ
 
-🌟 Welcome to my GitHub profile! 🌟
+🌟 Welcome to my GitHub profile! 🌟 
+      😺             (^///^) 
 
 ![Cat Sticker](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiIPFOOZsocC0BVfVS0PF3r9Hb45JVa3H12g&s)
 
@@ -8,6 +9,8 @@
 
 | Project | Description |
 | --- | --- |
-| [Change_language_in_flutter](link-to-project) | Project description |
-| [language_flutter_getx](link-to-project) | Project description |
-| [Gemini_Ghat_App_AI](link-to-project) | Project description |
+| [Gemini_Ghat_App_AI
+](https://github.com/fadak9999/Gemini_Ghat_App_AI.git) | 💫🪄 |
+| [
+localization_by_EX_intl](https://github.com/fadak9999/localization_by_EX_intl.git) | Project description |
+| [Record-audio-and-listen-to-an-audio-file-embedded-in-the-code.](https://github.com/fadak9999/Record-audio-and-listen-to-an-audio-file-embedded-in-the-code..git) | 🐚🐚🌊 |
