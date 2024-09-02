@@ -2,7 +2,7 @@
 
 🌟 Welcome to my GitHub profile! 🌟
 
-![Cat Sticker](https://cdn2.thecatapi.com/images/MTY3ODIyMQ.jpg)
+![Cat Sticker](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiIPFOOZsocC0BVfVS0PF3r9Hb45JVa3H12g&s)
 
 ## My Open Source Projects
 
