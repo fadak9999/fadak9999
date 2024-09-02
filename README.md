@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi  ᓚᘏᗢ (^///^) 👋
+![Uploading SchoolWorkGIF.gif…]()
 
 <!--
 **fadak9999/fadak9999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
